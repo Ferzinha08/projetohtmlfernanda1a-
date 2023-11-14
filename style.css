@@ -11,3 +11,25 @@ p{
 .imagem-banner{
     text-align: center;
 }
+.itens {
+    font-style: italic;
+font-size: 26px ;
+}
+
+.beneficios {
+    background: #f8c2ff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 30%;
+}
